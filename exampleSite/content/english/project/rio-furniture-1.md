@@ -1,9 +1,9 @@
 ---
-title: "Rio Furniture"
+title: "Rio Furniture 1"
 description: "this is meta description"
 draft: false
 image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/slider-bg.jpg"
 category: "UI/UX Design"
 information:
   - label : "Client"
@@ -18,9 +18,15 @@ information:
     info : "HTML5 / PHP / CSS3"
   - label : "Client"
     info : "Jannie Kelonsky"
+  - label : "Best friend"
+    info : "Hoden Krebs"
 ---
 
 ## Behance Website Redesign
+
+Sandra is the best, we fuck the rest!
+
+[dronehub](https://uav.aau.at/)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
