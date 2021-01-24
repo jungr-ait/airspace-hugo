@@ -318,3 +318,93 @@ weight = 5
 name = "Contact"
 URL = "contact"
 weight = 6
+
+
+################################ German Language ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+# copyright
+copyright = "Copyright &copy; 2020 [Roland Jung](https://github.com/jungr-ait/jungr-ait.github.io) All Rights Reserved"
+
+
+######################### german navigation #############################
+# main menu
+[[Languages.de.menu.main]]
+name = "Home"
+URL = ""
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Generelles"
+URL = "about"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Projekte"
+URL = "project"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[Languages.de.menu.main]]
+weight = 5
+name = "Seiten"
+hasChildren = true
+
+  [[Languages.de.menu.main]]
+  parent = "Seiten"
+  name = "FAQ"
+  URL = "faq"
+
+  [[Languages.de.menu.main]]
+  parent = "Seiten"
+  name = "Pricing"
+  URL = "pricing"
+
+  [[Languages.de.menu.main]]
+  parent = "Seiten"
+  name = "Service"
+  URL = "service"
+  
+[[Languages.de.menu.main]]
+name = "Kontakt"
+URL = "contact"
+weight = 6
+
+
+# footer menu
+[[Languages.de.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.de.menu.footer]]
+name = "Project"
+URL = "project"
+weight = 2
+
+[[Languages.de.menu.footer]]
+name = "Service"
+URL = "service"
+weight = 3
+
+[[Languages.de.menu.footer]]
+name = "Pricing"
+URL = "pricing"
+weight = 4
+
+[[Languages.de.menu.footer]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[Languages.de.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
