@@ -1,8 +1,11 @@
 ---
 title: "John Doe"
 email: "email2@example.org"
+name: "aka. JD."
 bg_image: "images/featue-bg.jpg"
 draft: false
+Photo: "images/teams/team-1.jpg"
+Description: "Research Scientist"
 social:
   - icon : "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
     link : "#"
