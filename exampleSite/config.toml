@@ -155,7 +155,7 @@ copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Ri
 # main menu
 [[Languages.en.menu.main]]
 name = "Home"
-URL = "/"
+URL = ""
 weight = 1
 
 [[Languages.en.menu.main]]
@@ -244,7 +244,7 @@ copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Ri
 # main menu
 [[Languages.fr.menu.main]]
 name = "Accueil"
-URL = "/"
+URL = ""
 weight = 1
 
 [[Languages.fr.menu.main]]
